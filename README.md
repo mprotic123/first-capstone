@@ -8,7 +8,7 @@ This is a capstone project to showcase the skills acquired the last 4 weeks stud
 
 ## Live Demo
 
-[Live Demo Link](https://mprotic123.github.io/first-capstone-project/)
+[Live Demo Link](https://mprotic123.github.io/first-capstone/)
 
 ## Built With
 
