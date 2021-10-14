@@ -29,7 +29,7 @@ To get a local copy up and running follow these simple example steps.
 
 - You can clone this repo by typing git clone `https://github.com/mprotic123/first-capstone.git` on your terminal
 
-- Type cd `First-Capstone-Project` to access the project on the terminal
+- Type cd `first-capstone` to access the project on the terminal
 
 Run `npm install` from the command line
 
