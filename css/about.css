@@ -423,10 +423,6 @@ h3 {
     border: solid white;
   }
 
-  .navlist .nav-item:last-child:hover {
-    border: solid #ec5242;
-  }
-
   .navlist .nav-item:last-child:hover a {
     color: #ec5242;
   }
