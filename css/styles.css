@@ -351,7 +351,9 @@ body * {
   display: flex;
   align-items: center;
   justify-content: flex-start;
-  padding: 10px 10px;
+  padding: 10px 45px;
+  color: #282b31;
+  background-color: #fff;
 }
 
 .explanation {
@@ -392,6 +394,10 @@ body * {
     text-decoration: none;
     color: #272a31;
     font-family: sans-serif;
+  }
+
+  #contactItem {
+    color: #ec5242ff;
   }
 
   .top li a {
@@ -648,6 +654,6 @@ body * {
   }
 
   .rights {
-    margin: 0 10%;
+    margin: auto 0;
   }
 }

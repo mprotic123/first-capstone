@@ -62,6 +62,11 @@ h3 {
   font-size: 1.5rem;
 }
 
+#contactItem {
+  color: #ec5242ff;
+  border: solid #ec5242ff;
+}
+
 .intro-main-page {
   background-image: url(../assets/images/secd-bgrd-img.jpg);
   background-size: 100% 100%;
