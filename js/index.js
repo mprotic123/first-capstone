@@ -141,7 +141,8 @@ document.querySelector('.speakers').innerHTML = '';
 if (window.innerWidth <= 768) {
   smartShowSpeakers(1, 2);
 } else if (window.innerWidth > 768) {
-  smartShowSpeakers(1, 4);
+  smartShowSpeakers(1, 6);
+  moreSpeakersButton.style.display = 'none';
 }
 
 moreSpeakersButton.addEventListener('click', () => {
